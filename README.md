@@ -1,0 +1,2 @@
+# InterSpeech2022_TrustworthinessAtZeroAcquanintance_PriorStudyUSM
+Premilinary study of trustworthiness annotations at zero acquaintance
